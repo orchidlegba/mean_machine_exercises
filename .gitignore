@@ -1,0 +1,12 @@
+logs
+*.log
+npm-debug.log*
+
+node_modules
+data
+typings
+.vscode
+
+.grunt
+.npm
+.node_repl_history
