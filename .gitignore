@@ -10,3 +10,4 @@ typings
 .grunt
 .npm
 .node_repl_history
+/.project
